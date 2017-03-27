@@ -152,7 +152,7 @@
     "UnitTypeTypeGeneration": 1,
     "RecorderBaseUrl": "",
     "IsStoryBoardCapturingEnabled": true,
-    "SimulateRealClickByDefault": false,
+    "SimulateRealClickByDefault": true,
     "SimulateRealTypingByDefault": false,
     "SimulateRealSilverlightUserByDefault": true,
     "DefaultDropDownSelection": 1,
